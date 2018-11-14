@@ -7,5 +7,6 @@ namespace DEMOWEB.Models
 {
     public class Maestro
     {
+        public int idMaestro { get; set; }
     }
 }
