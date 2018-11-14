@@ -7,5 +7,7 @@ namespace DEMOWEB.Models
 {
     public class Detalle
     {
+        public int idDetalle { get; set; }
     }
+}
 }
